@@ -1,0 +1,12 @@
+.navbar{
+    margin-bottom:0;
+    border-radius:0;
+}
+
+html, body {
+    height: 100%;
+  }
+
+#mecard {
+    position: fixed;
+}
